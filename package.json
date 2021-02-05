@@ -1,0 +1,15 @@
+{
+  "name": "em-xash",
+  "version": "1.0.0",
+  "description": "Emscripten Xash 3D",
+  "main": "node_main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_main.js"
+  },
+  "author": "Pixelsuft",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
